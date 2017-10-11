@@ -1,0 +1,40 @@
+/**
+ * Global Styles for all IE versions.
+ */
+
+html {
+	overflow: auto;
+}
+.nav-wrap,
+#infinite-handle,
+#footer-widgets {
+	position: relative;
+	overflow: hidden;
+	clear: both;
+}
+
+#footer-widgets {
+	max-width: 100%;
+	border-top: 1px solid #ddd;
+}
+
+#infinite-handle:before,
+.nav-wrap:before,
+#footer-widgets:before {
+	display: none;
+}
+
+.info-open .overlay-wrap {
+	overflow-y: scroll;
+	-ms-overflow-style: none;
+}
+
+.info-close .overlay-wrap {
+	overflow-y: hidden;
+}
+@media screen and (min-width: 1200px) {
+.info-open a#desktop-close-btn {
+	display: block;
+	z-index: 1000000000 !important;
+}
+}

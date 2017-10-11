@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cocoa v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-21 09:47:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: content-single.php:55
+#: content.php:52
+#@ cocoa
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-single.php:49
+#: content.php:41
+#: inc/widgets.php:257
+#: inc/widgets.php:266
+#, php-format
+#@ cocoa
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: functions.php:140
+#, php-format
+#@ cocoa
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions.php:274
+#@ cocoa
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in Moderation."
+
+#: archive.php:71
+#: search.php:31
+#@ cocoa
+msgid "Nothing Found"
+msgstr "Keine Einträge gefunden"
+
+#: inc/widgets.php:66
+#: inc/widgets.php:171
+#: inc/widgets.php:303
+#@ cocoa
+msgid "Title:"
+msgstr "Titel:"
+
+#: functions.php:289
+#@ cocoa
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+#: archive.php:37
+#@ cocoa
+msgid "Archives"
+msgstr "Archiv"
+
+#: content-single.php:30
+#: content.php:26
+#: image.php:26
+#: inc/widgets.php:264
+#@ cocoa
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: archive.php:75
+#@ cocoa
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Es scheint als könnten wir nicht finden, wonach du suchst."
+
+#: comments.php:46
+#@ cocoa
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#. translators: 1: date
+#: functions.php:262
+#, php-format
+#@ default
+msgid "%1$s"
+msgstr "%1$s"
+
+#: content-single.php:33
+#: content.php:29
+#@ cocoa
+msgid "comment 1"
+msgstr "Kommentare 1"
+
+#: content-single.php:33
+#: content.php:29
+#@ cocoa
+msgid "comments %"
+msgstr "Kommentare %"
+
+#: searchform-footer.php:13
+#: searchform.php:13
+#@ cocoa
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#: 404.php:16
+#@ cocoa
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte nicht gefunden werden."
+
+#: 404.php:20
+#@ cocoa
+msgid "It looks like nothing was found at this location. Maybe try another search term?"
+msgstr "Es scheint, als kann an dieser Stelle nichts gefunden werden. Vielleicht hilft die Suche mit einem anderen Suchbegriff?"
+
+#: inc/customizer.php:37
+#@ cocoa
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: content-single.php:24
+#: content.php:20
+#, php-format
+#@ cocoa
+msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "von <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: content-single.php:26
+#: content.php:22
+#, php-format
+#@ cocoa
+msgid "All posts by %s"
+msgstr "Alle Artikel von %s"
+
+#: content-single.php:33
+#: content.php:29
+#@ cocoa
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: footer.php:25
+#, php-format
+#@ cocoa
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s."
+
+#: functions.php:278
+#@ cocoa
+msgid "Reply"
+msgstr "Antworten"
+
+#: inc/customizer.php:59
+#@ cocoa
+msgid "Custom Footer Text"
+msgstr "Eigener Footertext"
+
+#: archive.php:19
+#, php-format
+#@ cocoa
+msgid "All posts filed under: %s"
+msgstr "Alle Artikel in: %s"
+
+#: archive.php:22
+#, php-format
+#@ cocoa
+msgid "All posts tagged: %s"
+msgstr "Alle Artikel mit dem Schlagwort: %s"
+
+#: archive.php:25
+#, php-format
+#@ cocoa
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:28
+#, php-format
+#@ cocoa
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: archive.php:31
+#, php-format
+#@ cocoa
+msgid "Month: %s"
+msgstr "Monate:  %s"
+
+#: archive.php:34
+#, php-format
+#@ cocoa
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: comments.php:24
+#, php-format
+#@ cocoa
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentare"
+msgstr[1] "%1$s Kommentare"
+
+#: comments.php:37
+#@ cocoa
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:38
+#@ cocoa
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: content-archive.php:18
+#@ cocoa
+msgid "The Latest 30 Posts"
+msgstr "Die neuesten 30 Artikel"
+
+#: content-archive.php:27
+#@ cocoa
+msgid "Filter by Month"
+msgstr "Filtern nach Monat"
+
+#: content-archive.php:37
+#@ cocoa
+msgid "Filter by Tag"
+msgstr "Filtern nach Schlagwort"
+
+#: content-single.php:62
+#@ cocoa
+msgid "The Author"
+msgstr "Der Autor"
+
+#: footer.php:20
+#@ cocoa
+msgid "Copyright"
+msgstr "Copyright"
+
+#: footer.php:22
+#@ cocoa
+msgid "Proudly powered by"
+msgstr ""
+
+#: footer.php:22
+#@ cocoa
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:22
+#@ cocoa
+msgid "WordPress."
+msgstr ""
+
+#: functions.php:33
+#@ cocoa
+msgid "Top primary menu"
+msgstr "Haupt-Menü "
+
+#: functions.php:34
+#@ cocoa
+msgid "Social menu"
+msgstr "Social Links Menü"
+
+#: functions.php:78
+#@ cocoa
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "auf"
+
+#: functions.php:256
+#, php-format
+#@ cocoa
+msgid "%s <span class=\"says\">says</span>"
+msgstr "%s <span class=\"says\">sagt</span>"
+
+#: functions.php:305
+#@ cocoa
+msgid "Footer Widget Area"
+msgstr "Footer Widgetbereich"
+
+#: functions.php:307
+#@ cocoa
+msgid "Widgets will appear in a single-column footer widget area."
+msgstr "Widgets werden in einer einspaltigen Ansicht im Footer Widgetbereich angezeigt."
+
+#: functions.php:315
+#@ cocoa
+msgid "Header Widget Area"
+msgstr "Header Widgetbereich"
+
+#: functions.php:317
+#@ cocoa
+msgid "Widgets will appear in an overlay header widget area."
+msgstr "Widgets werden in einem Overlay Header-Widgetbereich angezeigt."
+
+#: functions.php:341
+#@ cocoa
+msgid "<span>Previous Posts</span>"
+msgstr "<span>Vorherige Artikel</span>"
+
+#: functions.php:342
+#@ cocoa
+msgid "<span>Next Posts</span>"
+msgstr "<span>Nächste Artikel</span>"
+
+#: functions.php:367
+#, php-format
+#@ cocoa
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Vorheriger Artikel</span>%title"
+
+#: functions.php:368
+#, php-format
+#@ cocoa
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Nächster Artikel</span>%title"
+
+#: header.php:30
+#: header.php:43
+#@ cocoa
+msgid "Open"
+msgstr ""
+
+#: header.php:31
+#: header.php:44
+#@ cocoa
+msgid "Close"
+msgstr ""
+
+#: image.php:84
+#@ cocoa
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+#: image.php:85
+#@ cocoa
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+#: inc/customizer.php:21
+#@ cocoa
+msgid "Theme"
+msgstr "Theme"
+
+#: inc/widgets.php:20
+#@ cocoa
+msgid "Quote (Cocoa)"
+msgstr "Zitat (Cocoa)"
+
+#: inc/widgets.php:71
+#@ cocoa
+msgid "Quote Text:"
+msgstr "Zitat Text:"
+
+#: inc/widgets.php:76
+#@ cocoa
+msgid "Quote Author (optional):"
+msgstr "Zitat Autor (optional):"
+
+#: inc/widgets.php:96
+#@ cocoa
+msgid "About (Cocoa)"
+msgstr "About (Cocoa)"
+
+#: inc/widgets.php:176
+#@ cocoa
+msgid "About Image URL:"
+msgstr "About Bild URL:"
+
+#: inc/widgets.php:181
+#@ cocoa
+msgid "About Image Width (at least 600):"
+msgstr "About-Bild Breite (mind. 600):"
+
+#: inc/widgets.php:186
+#@ cocoa
+msgid "About Image Height (flexible, e.g. 793):"
+msgstr "About-Bild Höhe (flexibel, z.B. 793):"
+
+#: inc/widgets.php:191
+#@ cocoa
+msgid "Image Caption Text:"
+msgstr "Bild Unterschrift Text:"
+
+#: inc/widgets.php:196
+#@ cocoa
+msgid "About Slogan:"
+msgstr "About Slogan-Spruch:"
+
+#: inc/widgets.php:201
+#@ cocoa
+msgid "About Text:"
+msgstr "About Text:"
+
+#: inc/widgets.php:219
+#@ cocoa
+msgid "A number of Recent Posts filtered by category"
+msgstr "Eine Anzahl neuester Artikel gefiltert nach Kategorie"
+
+#: inc/widgets.php:221
+#@ cocoa
+msgid "Recent Posts by Categories (Cocoa)"
+msgstr "Neueste Artikel nach Kategorie (Cocoa)"
+
+#: inc/widgets.php:308
+#@ cocoa
+msgid "Number of posts (3, 6 or 9):"
+msgstr "Anzahl der Artikel (3,6 oder 9):"
+
+#: inc/widgets.php:310
+#@ cocoa
+msgid "3"
+msgstr "3"
+
+#: inc/widgets.php:311
+#@ cocoa
+msgid "6"
+msgstr "6"
+
+#: inc/widgets.php:312
+#@ cocoa
+msgid "9"
+msgstr "9"
+
+#: inc/widgets.php:317
+#@ cocoa
+msgid "Category ID numbers (choose which categories to include, optional):"
+msgstr "Kategorie ID Nummer (wähle, welche Katgorien du nutzen möchtest, optional):"
+
+#: search.php:16
+#, php-format
+#@ cocoa
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für:  %s"
+
+#: search.php:34
+#@ cocoa
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, es scheint kein Suchergebnis für deine Anfrage zu geben. Bitte versuche es noch einmal mit einem alternativen Suchbegriff."
+
+#: searchform-footer.php:11
+#: searchform.php:11
+#@ cocoa
+msgid "Search"
+msgstr "Suche"
+
+#: searchform-footer.php:12
+#@ cocoa
+msgctxt "placeholder"
+msgid "Type to search&hellip;"
+msgstr "Tippe zum Suchen&hellip;"
+
+#: content.php:51
+#@ cocoa
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: searchform.php:12
+#@ cocoa
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Suchen&hellip;"
+
+#: content-archive.php:32
+#@ cocoa
+msgid "Filter by Categories"
+msgstr "Filtern nach Kategorie"
+
+#: inc/customizer.php:48
+#@ cocoa
+msgid "Menu Button Color"
+msgstr "Menü Button Farbe"
+
