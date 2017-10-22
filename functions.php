@@ -386,7 +386,11 @@ function cocoa_body_class( $classes ) {
 	if ( is_page_template( 'page-templates/page-archive.php' ) )
 		$classes[] = 'template-archive';
 
-    if ( is_page_template( 'page-templates/page-thai.php' ) ){
+    if ( is_page_template( 'page-templates/page-thai.php' )
+        || is_page_template( 'page-templates/page-travel.php')
+        || is_page_template( 'page-templates/page-tech.php')
+        || is_page_template( 'page-templates/page-art.php')
+    ){
         foreach( $classes as $key => $value) {
             if ($value == 'page') {
                 unset( $classes[$key] );

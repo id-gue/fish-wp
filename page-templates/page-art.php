@@ -1,6 +1,7 @@
 <?php
 /**
- * The main template file.
+ * Template Name: Art Page
+ * Description: A page specifically for posts made in category: 'art'
  *
  * @package Cocoa
  * @since Cocoa 1.0
@@ -10,7 +11,7 @@ get_header(); ?>
 
 	<div id="primary" class="site-content cf" role="main">
 		<?php
-            // Start the Loop.
+			// Start the Loop.
             query_posts(
                 array(
                     'posts_per_page' => 10,
@@ -20,13 +21,13 @@ get_header(); ?>
                         array(
                             'taxonomy'  => 'category',
                             'field'     => 'name',
-                            'terms'     => 'main'
+                            'terms'     => 'art'
                         )
                     )
                 )
             );
 
-            while ( have_posts() ) : the_post();
+			while ( have_posts() ) : the_post();
 
                 get_template_part( 'content', 'detailed' );
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * The default template for displaying thai content
+ * The default template for displaying detailed content
  *
  * @package Cocoa
  * @since Cocoa 1.0
