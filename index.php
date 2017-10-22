@@ -13,8 +13,6 @@ get_header(); ?>
             // Start the Loop.
             query_posts(
                 array(
-                    'posts_per_page' => 10,
-                    'paged' => ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1,
                     'tax_query' => array(
                         'relation' => 'OR',
                         array(
